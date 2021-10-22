@@ -32,7 +32,7 @@ void setup() {
   }
 }
 void draw() {
-  background(200, 200, 200, 75);
+  background(150, 150, 150, 75);
   for (int i = 0; i < ni; i++) {
     if(fungi[i].fm == 4){
       fungi[i].show();
