@@ -81,7 +81,7 @@ void draw() {
   }
   noStroke();
   fill(255, 255, 255, 50);
-  rect(0, 700, 100, 100);
+  rect(0, 725, 125, 75);
   fill(0, 0, 0);
   textAlign(LEFT, BOTTOM);
   textSize(15);
